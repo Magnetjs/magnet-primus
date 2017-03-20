@@ -1,0 +1,38 @@
+{
+  "name": "magnet-primus",
+  "version": "0.1.0",
+  "description": "Magnet adapter for primus",
+  "keywords": [
+    "magnet",
+    "magnetjs",
+    "magnet-primus"
+  ],
+  "homepage": "https://github.com/magnetjs/magnet-primus#readme",
+  "bugs": {
+    "url": "https://github.com/magnetjs/magnet-primus/issues"
+  },
+  "author": "Kieve Chua <kievechua@gmail.com> (http://github.com/kievechua)",
+  "main": "index.js",
+  "repository": "magnetjs/magnet-primus",
+  "scripts": {
+    "start": "fly",
+    "build": "fly buildAndCopy",
+    "dist": "npm run build && cd dist && npm publish"
+  },
+  "dependencies": {
+    "magnet-core": "^3.7.6",
+    "primus": "^6.1.0"
+  },
+  "devDependencies": {
+    "fly": "^2.0.5",
+    "fly-clear": "^1.0.1",
+    "fly-esnext": "^2.0.1",
+    "fly-flatten": "^1.0.1",
+    "fly-typescript": "^1.0.0",
+    "fly-watch": "^1.1.1"
+  },
+  "engines": {
+    "node": ">=6.9.5"
+  },
+  "license": "MIT"
+}

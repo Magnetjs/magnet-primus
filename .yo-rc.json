@@ -1,0 +1,24 @@
+{
+  "generator-magnetjs": {
+    "promptValues": {
+      "npmModule": "primus",
+      "moduleName": "magnet-primus",
+      "name": "Kieve Chua",
+      "email": "kievechua@gmail.com",
+      "website": "http://github.com/kievechua",
+      "license": "MIT",
+      "language": "ts",
+      "includeFly": true,
+      "fromDist": true
+    },
+    "npmModule": "primus",
+    "moduleName": "magnet-primus",
+    "name": "Kieve Chua",
+    "email": "kievechua@gmail.com",
+    "website": "http://github.com/kievechua",
+    "license": "MIT",
+    "language": "ts",
+    "includeFly": true,
+    "fromDist": true
+  }
+}
