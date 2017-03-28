@@ -1,6 +1,6 @@
 {
   "name": "magnet-primus",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Magnet adapter for primus",
   "keywords": [
     "magnet",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "magnet-core": "^3.7.6",
-    "primus": "^6.1.0"
+    "primus": "^7.0.0"
   },
   "devDependencies": {
     "fly": "^2.0.5",
