@@ -20,8 +20,8 @@
     "dist": "npm run build && cd dist && npm publish"
   },
   "dependencies": {
-    "magnet-core": "^3.7.6",
-    "primus": "^7.0.0"
+    "magnet-core": "^3.8.0",
+    "primus": "^7.2.3"
   },
   "devDependencies": {
     "fly": "^2.0.5",
